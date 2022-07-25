@@ -1,2 +1,7 @@
-# nycscertweb
-This is where we will look for assignments and post our work.
+# Hunter College Advanced CS Taching Ceri=tificate Progra.
+
+## Programming
+
+## Data Structures
+
+## Methods

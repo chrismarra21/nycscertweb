@@ -9,7 +9,7 @@
 
 
 ## Methods
-<img src="![image](https://user-images.githubusercontent.com/96950263/180845033-45b815fc-0b7e-4a98-a95a-88189ea69914.png)
+<img src="![no swearing](https://user-images.githubusercontent.com/96950263/180845378-50407d2f-821c-4a0f-8ca6-7641570e0b14.png)
 ">
 <a href="https://replit.com/@chrismarra21/cohort-3-summer-work-chrismarra21-1#methods/03_trace.txt">Trace Diagrams</a>
 

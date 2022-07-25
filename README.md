@@ -5,9 +5,9 @@
 
 
 ## Data Structures
-<a href="https://www.w3schools.com/">Array Lists</a>
+<a href="https://replit.com/@chrismarra21/cohort-3-summer-work-chrismarra21-1#ds/LinkedLists/LinkedList.java">Array Lists</a>
 
 
 ## Methods
-<a href="https://www.w3schools.com/">Trace Diagrams</a>
+<a href="https://replit.com/@chrismarra21/cohort-3-summer-work-chrismarra21-1#methods/03_trace.txt">Trace Diagrams</a>
 

@@ -1,4 +1,4 @@
-# Hunter College Advanced CS Taching Ceri=tificate Progra.
+# Hunter College Advanced CS Taching Certificate Progra.
 
 ## Programming
 
